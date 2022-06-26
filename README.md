@@ -1,0 +1,2 @@
+# soon.js
+host
